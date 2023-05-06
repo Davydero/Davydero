@@ -1,4 +1,6 @@
-### Hi there 👋
+### Davy Rojas 🔭
+
+I'm a Mechatronics engineer who have been working in the field of industrial automation for at least 6 years. Now I'm looking for a oportunity to start into software industry. I have a wide experience in Python and I would like to work in Backend development using Django and another necessary stuff. I have studies in Robotics, ML and IoT, so I'm open to learn new things all the time.
 
 <!--
 **Davydero/Davydero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

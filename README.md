@@ -32,10 +32,27 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
 </div>
 .
 <div>
-  <h2>
-    Django Projects 💻</h2>
-  <strong href="facebook.com">Time-tracker:</Strong>
-  <a href="#">App to track the activity of your employees </a>
+  <h2>Django Projects 💻</h2>
+  <div>
+  <strong>Time-tracker:</Strong>
+  <a href="a">App to track the activity of your employees </a>
+    <a href="z">GitHub repository</a>
+  </div>
+  <div>
+  <strong>Task manager:</Strong>
+  <a href="v">CRUD app to manage your pendant tasks </a>
+    <a href="m">GitHub repository</a>
+  </div>
+  <div>
+  <strong>Chat-app:</Strong>
+  <a href="c">App to text with friends </a>
+    <a href="m">GitHub repository</a>
+  </div>
+  <div>
+  <strong>Weather App:</Strong>
+  <a href="d">Check the weather conditions of your city </a>
+    <a href="m">GitHub repository</a>
+  </div>
 </div>
 
 

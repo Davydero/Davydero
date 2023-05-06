@@ -30,10 +30,12 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 </a>
 </div>
-
+.
 <div>
   <h2>
     Django Projects 💻</h2>
+  <strong href="facebook.com">Time-tracker:</Strong>
+  <a>App to track the activity of your employees </a>
 </div>
 
 

@@ -35,7 +35,7 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
   <h2>
     Django Projects 💻</h2>
   <strong href="facebook.com">Time-tracker:</Strong>
-  <a>App to track the activity of your employees </a>
+  <a href="#">App to track the activity of your employees </a>
 </div>
 
 

@@ -2,6 +2,7 @@
 
 I'm a Mechatronics engineer who have been working in the field of industrial automation for at least 6 years. Now I'm looking for a oportunity to start into software industry. I have a wide experience in Python and I would like to work in Backend development using Django and another necessary stuff. I have studies in Robotics, ML and IoT, so I'm open to learn new things all the time.
 
+<div>
 <h2>Skills 🚀</h2>
 <a><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 </a>
@@ -20,6 +21,22 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
 
 <a><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
+
+<a>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+</a> 
+
+<a>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+</a>
+</div>
+
+<div>
+  <h2>
+    Django Projects 💻</h2>
+</div>
+
+
 <!--
 **Davydero/Davydero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

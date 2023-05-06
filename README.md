@@ -36,7 +36,7 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
   <div>
   <strong>Time-tracker:</Strong>
   <a href="a">App to track the activity of your employees </a>
-    <a href="z">GitHub repository</a>
+    <a align="right" href="z">GitHub repository</a>
   </div>
   <div>
   <strong>Task manager:</Strong>
@@ -54,7 +54,29 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
     <a href="m">GitHub repository</a>
   </div>
 </div>
-
+<div>
+  <h2>Academic Projects 🔬</h2>
+  <div>
+  <strong>- APPLICATION OF AN INDUSTRIAL ROBOTIC MANIPULATOR FOR BOXED SNACKS:</Strong>
+    <a>Simulation of a robotic arm to pick and place objects using a Computer Vision module. (ROS/Python).</a>
+    <a align="right" href="z">GitHub repository</a>
+  </div>
+  <div>
+  <strong>- MONITORING ROBOT FOR RADIOLOGICAL FACILITIES: </Strong>
+    <a>Simulation of a mobile robot that uses Lidar and another sensors to monitor a certain area (ROS/Python).</a>
+    <a align="right" href="z">GitHub repository</a>
+  </div>
+  <div>
+  <strong>- AUTONOMOUS DRIVING MODEL BASED ON END TO END APPROACH: </Strong>
+    <a>Simulation of an autonomous vehicle using Carla Simulator using CNN to process images and information (Python/Tensorflow).</a>
+    <a align="right" href="z">GitHub repository</a>
+  </div>
+  <div>
+  <strong>- HOME WATER FLOW MONITORING SYSTEM BASED ON IOT</Strong>
+    <a>Prototype of a system that read different sensors and send the information to a web page for monitoring (Python/MQTT).</a>
+    <a align="right" href="z">GitHub repository</a>
+  </div>
+</div>
 
 <!--
 **Davydero/Davydero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

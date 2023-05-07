@@ -77,7 +77,15 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
     <a align="right" href="z">GitHub repository</a>
   </div>
 </div>
+<div>
+ 
+  
+<img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
+<img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  
+          
+</div>
 <!--
 **Davydero/Davydero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -90,8 +90,8 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
 <div>
   <h3> </h3>
 <p>
-<a href="https://www.linkedin.com/in/davy-rojas-7a2886a0/" target="_blank">
-<img align="center" alt="Git" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" >
+<a href="https://www.linkedin.com/in/davy-rojas-7a2886a0/">
+<img target="_blank" align="center" alt="Git" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" >
 </a>
 <a href="https://twitter.com/davy_yana" target="_blank">
 <img  align="center" alt="Git" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" >

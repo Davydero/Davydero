@@ -1,3 +1,4 @@
+         
 <h1> Davy Rojas 🔭</h1>
 
 I'm a Mechatronics engineer who have been working in the field of industrial automation for at least 6 years. Now I'm looking for a oportunity to start into software industry. I have a wide experience in Python and I would like to work in Backend development using Django and another necessary stuff. I have studies in Robotics, ML and IoT, so I'm open to learn new things all the time.
@@ -36,21 +37,25 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
   <div>
   <strong>Time-tracker:</Strong>
   <a href="a">App to track the activity of your employees </a>
+    <a>---></a>
     <a align="right" href="z">GitHub repository</a>
   </div>
   <div>
   <strong>Task manager:</Strong>
   <a href="v">CRUD app to manage your pendant tasks </a>
-    <a href="m">GitHub repository</a>
+    <a>---></a>
+    <a href="m">GitHub repository</a>          
   </div>
   <div>
   <strong>Chat-app:</Strong>
   <a href="c">App to text with friends </a>
+    <a>---></a>
     <a href="m">GitHub repository</a>
   </div>
   <div>
   <strong>Weather App:</Strong>
   <a href="d">Check the weather conditions of your city </a>
+    <a>---></a>
     <a href="m">GitHub repository</a>
   </div>
 </div>
@@ -75,15 +80,14 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
   <strong>- HOME WATER FLOW MONITORING SYSTEM BASED ON IOT</Strong>
     <a>Prototype of a system that read different sensors and send the information to a web page for monitoring (Python/MQTT).</a>
     <a align="right" href="z">GitHub repository</a>
+    <a></a>
   </div>
 </div>
 <div>
- 
-  
-<img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <h3> </h3>
+<img align="center" alt="Git" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
-<img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-  
+<img align="center" alt="Git" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
           
 </div>
 <!--

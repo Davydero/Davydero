@@ -36,27 +36,31 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
   <h2>Django Projects 💻</h2>
   <div>
   <strong>Time-tracker:</Strong>
-  <a href="a">App to track the activity of your employees </a>
+  <a>App to track the activity of your employees </a>
+           <a href="http://davydero.pythonanywhere.com/">(Deployed)</a>
     <a>---></a>
-    <a align="right" href="z">GitHub repository</a>
+    <a align="right" href="https://github.com/Davydero/django-time-tracker">(GitHub repository)</a>
   </div>
   <div>
   <strong>Task manager:</Strong>
-  <a href="v">CRUD app to manage your pendant tasks </a>
+  <a>CRUD app to manage your pendant tasks </a>
+           <a href="https://django-auth-crud-v1n8.onrender.com/">(Deployed)</a>
     <a>---></a>
-    <a href="m">GitHub repository</a>          
+    <a href="https://github.com/Davydero/django-auth-crud">(GitHub repository)</a>          
   </div>
   <div>
   <strong>Chat-app:</Strong>
-  <a href="c">App to text with friends </a>
+  <a>App to text with friends </a>
+           <a href="https://chat-app-57oi.onrender.com/">(Deployed)</a>
     <a>---></a>
-    <a href="m">GitHub repository</a>
+    <a href="https://github.com/Davydero/chat-app">(GitHub repository)</a>
   </div>
   <div>
   <strong>Weather App:</Strong>
-  <a href="d">Check the weather conditions of your city </a>
+  <a>Check the weather conditions of your city </a>
+           <a href="https://weather-app-bopc.onrender.com">(Deployed)</a>
     <a>---></a>
-    <a href="m">GitHub repository</a>
+    <a href="https://github.com/Davydero/weather-app">(GitHub repository)</a>
   </div>
 </div>
 <div>
@@ -85,9 +89,9 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
 </div>
 <div>
   <h3> </h3>
-<img align="center" alt="Git" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img href="https://www.linkedin.com/in/davy-rojas-7a2886a0/" align="center" alt="Git" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
-<img align="center" alt="Git" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+<img href="https://twitter.com/davy_yana" align="center" alt="Git" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
           
 </div>
 <!--

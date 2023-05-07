@@ -93,9 +93,10 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
 <a href="https://www.linkedin.com/in/davy-rojas-7a2886a0/">
 <img align="center" alt="Git" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" >
 </a>
+<a href="https://twitter.com/davy_yana">
+<img  align="center" alt="Git" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" >
+</a>
 </p>
-<img href="https://twitter.com/davy_yana" align="center" alt="Git" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" >
-          
 </div>
 <!--
 **Davydero/Davydero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -83,7 +83,7 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
   <div>
   <strong>- HOME WATER FLOW MONITORING SYSTEM BASED ON IOT</Strong>
     <a>Prototype of a system that read different sensors and send the information to a web page for monitoring (Python/MQTT).</a>
-    <a align="right" href="z">GitHub repository</a>
+    <a align="right" href="https://github.com/Davydero/Proyecto-DiploIoT">GitHub repository</a>
     <a></a>
   </div>
 </div>

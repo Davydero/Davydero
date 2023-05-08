@@ -78,7 +78,7 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
   <div>
   <strong>- AUTONOMOUS DRIVING MODEL BASED ON END TO END APPROACH: </Strong>
     <a>Simulation of an autonomous vehicle using Carla Simulator using CNN to process images and information (Python/Tensorflow).</a>
-    <a align="right" href="z">GitHub repository</a>
+    <a align="right" href="https://github.com/Davydero/End-to-end">GitHub repository</a>
   </div>
   <div>
   <strong>- HOME WATER FLOW MONITORING SYSTEM BASED ON IOT</Strong>

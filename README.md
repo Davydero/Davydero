@@ -68,12 +68,12 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
   <div>
   <strong>- APPLICATION OF AN INDUSTRIAL ROBOTIC MANIPULATOR FOR BOXED SNACKS:</Strong>
     <a>Simulation of a robotic arm to pick and place objects using a Computer Vision module. (ROS/Python).</a>
-    <a align="right" href="z">GitHub repository</a>
+    <a align="right" href="https://github.com/Davydero/Industrial-Robot">GitHub repository</a>
   </div>
   <div>
   <strong>- MONITORING ROBOT FOR RADIOLOGICAL FACILITIES: </Strong>
     <a>Simulation of a mobile robot that uses Lidar and another sensors to monitor a certain area (ROS/Python).</a>
-    <a align="right" href="z">GitHub repository</a>
+    <a align="right" href="https://github.com/Davydero/monitoring-robot">GitHub repository</a>
   </div>
   <div>
   <strong>- AUTONOMOUS DRIVING MODEL BASED ON END TO END APPROACH: </Strong>
@@ -89,7 +89,7 @@ I'm a Mechatronics engineer who have been working in the field of industrial aut
 </div>
 <div>
   <h3> </h3>
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/davy-rojas-7a2886a0/">
 <img target="_blank" align="center" alt="Git" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" >
 </a>
